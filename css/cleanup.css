@@ -1,1 +1,31 @@
 /* write your override styles here */
+
+*{
+  margin: auto;
+}
+#tag-2 {
+  display: none;
+}
+
+#tag-3 {
+  width: auto;
+}
+
+.parent {
+  background-color: red;
+  width: auto;
+  margin: auto;
+  height: 500px;
+}
+
+.slick {
+  height: 400px;
+  margin: 3px;
+}
+.wicked {
+  display: none;
+}
+
+#wall .tag-1 {
+  display: none;
+}
